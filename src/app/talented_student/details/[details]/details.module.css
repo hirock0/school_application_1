@@ -1,0 +1,7 @@
+#StudentImage{
+    box-shadow: 0 0 10px white;
+    @apply rounded-md
+}
+#StudentImage:hover{
+    scale: 0.99;
+}

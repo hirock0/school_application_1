@@ -1,0 +1,22 @@
+#theadTr td{
+    @apply underline underline-offset-4 text-xl font-semibold text-center
+
+}
+#tbodyTr td{
+    @apply text-center
+}
+#noticedata::-webkit-scrollbar{
+    display: none;
+}
+#thead tr{
+    @apply border bg-red-400 text-xl
+}
+#thead tr td{
+    @apply border
+}
+#tbody tr{
+    @apply border
+}
+#tbody tr td{
+    @apply border
+}

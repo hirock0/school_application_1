@@ -1,0 +1,17 @@
+#page_1{
+    background: url();
+}
+#thumImage{
+    background: url(https://cdn.pixabay.com/photo/2020/09/03/12/25/school-supplies-5541099_960_720.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#facilityDiv{
+    
+}
+#headingtext{
+    text-shadow: 0 0 10px rgb(19, 78, 78);
+    color: cyan;
+    font-size: 5vmax;
+}

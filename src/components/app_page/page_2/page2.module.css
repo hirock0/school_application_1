@@ -1,0 +1,3 @@
+#TeacherUl li{
+    @apply  bg-cyan-800 shadow-md shadow-white text-white pl-3 h-10 max-sm:text-xs max-sm:h-16 rounded-md flex items-center
+}

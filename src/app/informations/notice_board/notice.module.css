@@ -1,0 +1,15 @@
+#noticedata::-webkit-scrollbar{
+    display: none;
+}
+#thead tr{
+    @apply border bg-red-400 text-xl
+}
+#thead tr td{
+    @apply border
+}
+#tbody tr{
+    @apply border
+}
+#tbody tr td{
+    @apply border
+}
