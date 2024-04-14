@@ -341,7 +341,7 @@ export default function Profile(props: any) {
       >
         <div
           id="updateBox"
-          className=" p-10 border rounded-md backdrop:filter backdrop-blur-3xl"
+          className=" max-sm:w-72 p-10 border rounded-md backdrop:filter backdrop-blur-3xl"
         >
           <div className=" flex flex-col gap-3">
             <h1>Image :</h1>
