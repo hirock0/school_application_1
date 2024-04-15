@@ -16,7 +16,7 @@ export default function App_Page() {
       <div id={Style.page_1} className=" pge1  flex flex-col items-center">
         <h1 className=" text-center mt-5 text-xl underline underline-offset-4">Welcome to our school</h1>
         <div id={Style.thumImage} className=" flex items-center justify-center h-96 w-full mt-5">
-            <div className="  w-full pl-16 max-sm:pl-10 flex items-center justify-center">
+            <div className="  w-full p-5 flex items-center justify-center">
               <Swiper
                 autoplay={
                   {
