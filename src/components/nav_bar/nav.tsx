@@ -447,7 +447,7 @@ export default function Nav_Bar() {
       >
         <div
           id={Style.sidemenu}
-          className="  menu translate-x-full bg-white w-96 max-sm:w-72 absolute right-5 top-5 bottom-5 rounded-md "
+          className="  menu translate-x-full bg-white w-96 max-sm:w-60 absolute right-5 top-5 bottom-5 rounded-md "
         >
           <div className=" mt-5 flex justify-end items-center pr-5">
             <div
@@ -548,7 +548,7 @@ export default function Nav_Bar() {
               <div className="  flex items-center justify-center">
                 <Link href={"/admin/login"}>
                   <button
-                    className=" border bg-cyan-300 hover:bg-cyan-600 active:bg-cyan-700 h-10 mt-10 w-40 rounded-md
+                    className=" border bg-cyan-300 hover:bg-cyan-600 active:bg-cyan-700 h-10 mt-10 w-40 max-sm:w-36 rounded-md
                 "
                   >
                     Admin
